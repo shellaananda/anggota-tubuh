@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_anggotatubuh.xml" value="0.2" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_gigi.xml" value="0.2" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_hati.xml" value="0.2" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_hidung.xml" value="0.2" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_kaki.xml" value="0.2" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_lambung.xml" value="0.2" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_lidah.xml" value="0.2" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_mata.xml" value="0.2" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_mulut.xml" value="0.2" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_otak.xml" value="0.2" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_paru.xml" value="0.2" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_raw.xml" value="0.20416666666666666" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_tangan.xml" value="0.22" />
+        <entry key="..\:/Kampus Merdeka/AnggotaTubuh/app/src/main/res/layout/activity_telinga.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
